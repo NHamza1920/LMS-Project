@@ -1,0 +1,639 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "firstName": "Muhammed",
+      "lastName": "Hamza N",
+      "email": "hamza123@gmail.com",
+      "type": "Admin",
+      "password": "Hamza@123",
+      "content": "During my freshman year of high school, I started a business designing and making custom prom dresses. It started with just four or five girls, but by the time I was a senior, everyone wanted to wear one of my gowns. I had two other girls helping me with the sewing, but I did the design work myself. I've known for a long time that I wanted to go into fashion design, but I also know there's a lot I still want to learn about the artistic and business sides of the field. That's why I really want to attend the Fashion Institute of Technology.",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1659521003.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=640:*"
+    },
+    {
+      "firstName": "Muhaimin",
+      "lastName": "Jamal E.N",
+      "email": "muhaimin123@gmail.com",
+      "password": "Muhaimin@123",
+      "img": "https://www.datocms-assets.com/70938/1685083441-1653477248-cillian-murphy.jpeg?auto=format&fit=max&w=1200",
+      "id": "2",
+      "content": "My name is"
+    },
+    {
+      "firstName": "Mohammed",
+      "lastName": "Shafaaz",
+      "img": "",
+      "content": "Shafaaz is an English actor. Known for his versatility and physical transformations for his roles, he has been a leading man in films of several genres. He has received various accolades, including an Academy Award and two Golden Globe Awards",
+      "email": "shafaaz123@gmail.com",
+      "password": "Shafaaz@123",
+      "id": "3"
+    },
+    {
+      "firstName": "Ana de",
+      "lastName": "Armas",
+      "email": "armas07@gmail.com",
+      "password": "Armas@07",
+      "img": "https://flxt.tmsimg.com/assets/587180_v9_bb.jpg",
+      "id": "4"
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Daddario",
+      "email": "alexa007@gmail.com",
+      "password": "Alexa@007",
+      "img": "https://www.emmys.com/sites/default/files/bios/alexandra-daddario-2022-noms-450x600.jpg",
+      "id": "5"
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Lawrence",
+      "email": "jenny246@gmail.com",
+      "password": "Jenny@246",
+      "img": "https://st1.bollywoodlife.com/wp-content/uploads/2022/08/Alia-2022-08-23T144026.625.png?impolicy=Medium_Widthonly&w=1280&h=900",
+      "id": "6"
+    }
+  ],
+  "Books": [
+    {
+      "title": "Origin",
+      "Description": "Edmond Kirsch, a billionaire philanthropist, computer scientist, futurist, and strident atheist, attends a meeting at the Santa Maria de Montserrat Abbey in Catalonia (Spain) with Roman Catholic Bishop Antonio Valdespino,[4] Jewish Rabbi Yehuda Köves, and Muslim Imam Syed al-Fadl, members of the Parliament of the World's Religions. He informs them that he has made a revolutionary discovery that he plans to release to the public in a month. He has informed them out of respect, despite his hatred of organized religion, which he blames for his mother's death. The three learn that he is presenting it in three days' time, prompting Valdespino to demand that he stop.\n\nKirsch hosts an event at the Guggenheim Museum in Bilbao. Among those in attendance are Kirsch's former teacher, Robert Langdon, and the Guggenheim's curator Ambra Vidal, the fiancée of the future King of Spain, Prince Julián. The guests receive a headset through which they communicate with a voice named Winston, which reveals to Langdon that it is an artificial intelligence invented by Kirsch. Winston leads Langdon to a private meeting with Kirsch, who claims that his presentation will reveal humanity's origins and future.",
+      "AuthorName": "Robert Langdon",
+      "Quantity": "10",
+      "price": "400",
+      "Image": "https://m.media-amazon.com/images/I/91ZeWa2jVaL.jpg",
+      "category": "Crime",
+      "id": "1"
+    },
+    {
+      "title": "Inferno",
+      "Description": "Harvard symbolism professor Robert Langdon wakes up in a hospital in Florence, Italy with a head wound and no memory of the last few days. Dr. Sienna Brooks, one of the doctors tending to him, reveals that he is suffering from amnesia and hearing a woman's voice repeatedly saying \"seek and find\". When Vayentha, an assassin, shows up in the hospital and kills one of the doctors, while attempting to kill Langdon, Brooks helps Langdon escape, and they flee to her apartment. Brooks plays a tape recording on which Langdon repeats what sounds like \"Very sorry\".\n\nLangdon finds a cylinder with a biohazard sign in his jacket and decides to call the U.S. consulate. He learns that they are searching for him, but, prompted by Brooks, claims to be across the street from her apartment, to avoid getting her more involved. Soon, Langdon sees Vayentha pull up to the location he gave the consulate. He deduces that the U.S. government wants to kill him. Langdon opens the container and finds a small medieval bone cylinder fitted with a hi-tech projector (Faraday Pointer) that displays a modified version of Botticelli's Map of Hell, which is based on Dante's Inferno. A trail of clues leads them toward the Old City.",
+      "AuthorName": "Robert Langdon",
+      "category": "Thriller",
+      "Quantity": "20",
+      "price": 200,
+      "id": "2",
+      "Image": "https://m.media-amazon.com/images/P/055217212X.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "title": "Daisy Jones & The Six",
+      "Description": "Everyone knows DAISY JONES & THE SIX, but nobody knows the reason behind their split at the absolute height of their popularity . . . until now. Daisy is a girl coming of age in L.A. in the late sixties, sneaking into clubs on the Sunset Strip, sleeping with rock stars, and dreaming of singing at the Whisky a Go Go. The sex and drugs are thrilling, but it’s the rock ’n’ roll she loves most. By the time she’s twenty, her voice is getting noticed, and she has the kind of heedless beauty that makes people do crazy things.\n\nAlso getting noticed is The Six, a band led by the brooding Billy Dunne. On the eve of their first tour, his girlfriend Camila finds out she’s pregnant, and with the pressure of impending fatherhood and fame, Billy goes a little wild on the road.\n\nDaisy and Billy cross paths when a producer realizes that the key to supercharged success is to put the two together. What happens next will become the stuff of legend.\n\nThe making of that legend is chronicled in this riveting and unforgettable novel, written as an oral history of one of the biggest bands of the seventies. Taylor Jenkins Reid is a talented writer who takes her work to a new level with Daisy Jones & The Six, brilliantly capturing a place and time in an utterly distinctive voice.",
+      "AuthorName": " Taylor Jenkins Reid",
+      "Quantity": "20",
+      "price": 450,
+      "Image": "https://m.media-amazon.com/images/I/71l+w6TvBML.jpg",
+      "category": "Drama",
+      "id": "3"
+    },
+    {
+      "title": "Wuthering Heights ",
+      "AuthorName": " Bronte Emily",
+      "Description": "Harper Collins is a fiduciary name amongst bibliophiles. This book is a quality print from H.C. London. The book is printed and bound is the U.K. The pages are quality with the signature light yellow tint of classic literature. The print quality is commendable. The text size is tad smaller than Penguin Classics, nonetheless very legible.",
+      "Quantity": "12",
+      "price": 1140,
+      "category": "Thriller",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/book/g/n/c/wuthering-heights-original-imagguh5urjmt5v9.jpeg?q=70",
+      "id": "4"
+    },
+    {
+      "title": "Life Switch ",
+      "AuthorName": " Banerjee Madhuri",
+      "Description": " Annie looks at this as a social experiment for a new ad campaign she is creating. She hopes that this will help her beat her rival and put her right at the top of the company. Nandita believes this will make her husband fall in love with her. Their lives begin to get horribly complicated when secrets are revealed. In their bid to have everything, they've set the ball rolling on something that has now pitched them against each other.",
+      "Quantity": "20",
+      "price": 420,
+      "category": "Drama",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/book/l/q/c/life-switch-original-imaghkmjfjc2dtvr.jpeg?q=70",
+      "id": "5"
+    },
+    {
+      "title": "No Plan B",
+      "Description": "\nGerrardsville, Colorado. One tragic event. Two witnesses. Two conflicting accounts. One witness sees a woman throw herself in front of a bus - clearly suicide. The other witness is Jack Reacher. And he sees what really happened - a man in grey hoodie and jeans, swift and silent as a shadow, pushing the victim to her death, before grabbing her bag and sauntering away.\n\nReacher follows the killer, not knowing that this was no random act of violence. It is part of something much bigger...a sinister, secret conspiracy, with powerful people on the take, enmeshed in an elaborate plot that leaves no room for error. If any step is compromised, the threat will have to be quickly and permanently removed.\n",
+      "AuthorName": "Jack Reacher",
+      "Quantity": "10",
+      "price": "300",
+      "Image": "https://m.media-amazon.com/images/I/81EwJoYM6jL.jpg",
+      "category": "Thriller",
+      "id": "6"
+    },
+    {
+      "title": "A Passage to India",
+      "Description": "British schoolmistress, Adela Quested, and her elderly friend, Mrs. Moore, visit the fictional Indian city of Chandrapore. Adela is to decide if she wants to marry Mrs. Moore's son, Ronny Heaslop, the city magistrate.\n\nMeanwhile, Dr. Aziz, a young Indian Muslim physician, is called from dining with friends by Major Callendar, Aziz's superior at the hospital, but is delayed. Disconsolate at finding him gone, Aziz walks back and enters his favourite mosque on impulse. Seeing Mrs Moore there, he yells at her not to profane this sacred place, but the two then chat and part as friends. When Mrs. Moore relates her experience later, Ronny becomes indignant at the native's presumption.\n\n",
+      "AuthorName": " E. M. Forster ",
+      "Quantity": "20",
+      "category": "Drama",
+      "price": 200,
+      "Image": "https://m.media-amazon.com/images/I/91JSfRQAhYL.jpg",
+      "id": "7"
+    },
+    {
+      "title": "The Great Mughals and Their India",
+      "Description": "A definitive, comprehensive and engrossing chronicle of one of the greatest dynasties of the world – the Mughal – from its founderBabur to Bahadur Shah Zafar, the last of the clanThe magnificent Mughal legacy – the world-famous Taj Mahal being the most prominent among countless other examples – is an inexhaustible source of inspiration to historians, writers, moviemakers, artists and ordinary mortals alike.Mughal history abounds with all the ingredients of classical drama: ambition and frustration, hope and despair, grandeur and decline, love and hate and loyalty and betrayal. In other words: it is great to read and offers ample food for thought on the human condition.Much more importantly, Mughal history deserves to be widely read and reflected upon, because of its lasting cultural and socio-political relevance to today’s world in general and the Indian subcontinent in particular. Where did they succeed? Where did they fail? And more importantly, what should we learn from their triumphs and failures?The author believes that history books should be accurate, informative and entertaining. In The Great Mughals and Their India, he has kept these objectives in mind in an attempt to narrate Mughal history from their perspective. ",
+      "AuthorName": " Dirk Collier ",
+      "Quantity": "30",
+      "price": 450,
+      "Image": "https://m.media-amazon.com/images/I/81Szrt2KiPL.jpg",
+      "id": "8"
+    },
+    {
+      "title": "Genghis Khan and the Making of the Modern World",
+      "Description": "New York Times Bestseller • The startling true history of how one extraordinary man from a remote cornerof the world created an empire that led the world into the modern age.The Mongol army led by Genghis Khan subjugated more lands and people in twenty-five years than the Romans did in four hundred. In nearly every country the Mongols conquered, they brought an unprecedented rise in cultural communication, expanded trade, and a blossoming of civilization. Vastly more progressive than his European or Asian counterparts, Genghis Khan abolished torture, granted universal religious freedom, and smashed feudal systems of aristocratic privilege. From the story of his rise through the tribal culture to the explosion of civilization that the Mongol Empire unleashed, this brilliant work of revisionist history is nothing less than the epic story of how the modern world was made.",
+      "AuthorName": "Jack Weatherford",
+      "category": "History",
+      "Quantity": "20",
+      "price": 400,
+      "id": "9",
+      "Image": "https://m.media-amazon.com/images/P/0609809644.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "title": "The Time Machine",
+      "Description": "A compelling science fiction, the Time Machine is a first-hand account of a Time Traveler's journey into the future. a pull of the lever and the machine sends him to the year 802,701, when humanity has split into two bizarre races?the ethereal Eloi and the subterranean Morlocks. Here, his machine is stolen and with the help of Weena, an Eloi he saved from drowning, the traveler is able to retrieve it. Whizzing thirty million years further into the future, he finds a slowly dying earth, where the bloated red sun sits motionless in the sky and the only sign of life is a black blob with tentacles.He returns to the Victorian time, overwhelmed, just three hours after he originally left..",
+      "AuthorName": " H. G. Wells",
+      "Quantity": "10",
+      "price": 450,
+      "Image": "https://m.media-amazon.com/images/I/61kIHuopR0L.jpg",
+      "category": "Thriller",
+      "id": "10"
+    },
+    {
+      "title": "The Art of War",
+      "Description": "Sun Tzu was a Chinese general, military strategist and a philosopher whose books have universal resonance even in the contemporary time. The Art of War has inspired Mao Zedong’s writings about Guerrilla warfare. Ho Chi Minh translated The Art of War for his generals to study. Sun Tzu’s Art of War is a widely acclaimed book on military strategy that has influenced and shaped the idea of Western and Eastern nations military philosophy. It presents complete instructions on how to win battles and manage conflicts. The theories proposed in Art of War are extremely beneficial on the battle ground and has been tried and tested by many successful military generals around the world. It is difficult to ascertain exactly when was this book written and many historians have ascribed it to different times. The Art of War has established its significance not just as a valuable book for military strategies but it also gives lesson in diplomacy and public administration and planning.",
+      "AuthorName": " Sun Tzu",
+      "Quantity": "15",
+      "price": 300,
+      "Image": "https://m.media-amazon.com/images/I/41-0lBgMGvL.jpg",
+      "category": "History",
+      "id": "11"
+    },
+    {
+      "title": "Lies and Deception",
+      "Description": "What do you do when the one person you thought you knew turns out to be the one you knew the least?Twenty-three year old Marissa Chase, and soon to be college graduate, has everything going for her: wonderful friends, a lucrative degree, and a chance to explore the world. What made it even better  or so she thought  was when her path crossed with the alluring Alec Holden. Unable to stay away from him, Marissa experiences a love like no other, and falls into his world of passion and intrigue. However, things begin to shift when this path takes a deadly turn.Her trust is put to the test when hidden dangers unfold before her, revealing secrets that have been buried for years. Secrets that were meant to stay hidden. Murder, lies, and betrayal  will Marissa figure it all out in time and escape with her life intact, or will she be too late and fall into the trap of deception?",
+      "AuthorName": "Chris Taylor",
+      "Quantity": "23",
+      "price": "260",
+      "Image": "https://m.media-amazon.com/images/I/51pnprnaZHL._BG0,0,0,0_FMpng_AC_SY320_SX320_.jpg",
+      "category": "Thriller",
+      "id": "12"
+    },
+    {
+      "title": "Sherlock Holmes",
+      "Description": "Sir Arthur Conan Doyle was born in Edinburgh in 1859 and died in 1930. Within those years was crowded a variety of activity and creative work that made him an international figure and inspired the French to give him the epithet 'the good giant'.\n",
+      "AuthorName": "Conan Doyle",
+      "Quantity": "30",
+      "price": 1200,
+      "Image": "https://m.media-amazon.com/images/I/71bhR8QDlPL.jpg",
+      "category": "Crime",
+      "id": "13"
+    },
+    {
+      "title": "The Lost Symbol",
+      "Description": "Renowned Harvard symbologist Robert Langdon is invited to give a lecture at the United States Capitol, at the invitation apparently from his mentor, a 33rd degree Mason named Peter Solomon, who is the head of the Smithsonian Institution. Solomon has also asked him to bring a small, sealed package which he had entrusted to Langdon years earlier. When Langdon arrives at the Capitol, however, he learns that the invitation he received was not from Solomon, but from Solomon's kidnapper, Mal'akh posing as Solomon's assistant, who has left Solomon's severed right hand in the middle of the Capitol Rotunda in a recreation of the Hand of Mysteries. Mal'akh then contacts Langdon, charging him with finding both the Mason's Pyramid, which Masons believe is hidden somewhere in Washington, D.C., and the Lost Word, lest Solomon be murdered.\n\nLangdon meets Inoue Sato, the head of the CIA's Office of Security. Sato claims that Mal'akh poses a threat to the national security of the U.S. and that his capture is more important than Peter's rescue, although she refuses to elaborate. ",
+      "AuthorName": "Robert Langdon",
+      "Quantity": "20",
+      "price": 220,
+      "category": "History",
+      "id": "14",
+      "Image": "https://m.media-amazon.com/images/P/059305427X.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "title": "The Girl in Room 105 ",
+      "Description": "Chetan writes columns in the Times of India and Dainik Bhaskar, which are amongst the most influential and widely read newspapers in the country. He is also one of the country's leading motivational speakers. Chetan went to college at IIT Delhi and IIM Ahmedabad, after which he worked in investment banking for a decade before quitting his job to become a full-time writer.",
+      "AuthorName": "Chetan Bhagat",
+      "Quantity": "20",
+      "price": "440",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/kkec4280/book/2/b/8/the-girl-in-room-105-original-imafzr6nczgggedw.jpeg?q=70",
+      "category": "Drama",
+      "id": "15"
+    },
+    {
+      "title": "The Mysterious Affair At Styles ",
+      "AuthorName": " Christie Agatha",
+      "Description": "\nThe Mysterious Affair at Styles is a detective novel by Agatha Christie. It was written in 1916 and was first published. Styles was Christie's first published novel, introducing Hercule Poirot, Inspector (later, Chief Inspector) Japp, and Lieutenant Hastings (later, Captain). The story is told in first person by Hastings and features many of the elements that have become icons of the Golden Age of Detective Fiction, largely due to Christie's influence.",
+      "Quantity": "15",
+      "price": 349,
+      "category": "Thriller",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/l0vbukw0/book/k/f/t/the-mysterious-affair-at-styles-original-imagcjnby4vfvh9p.jpeg?q=70",
+      "id": "16"
+    },
+    {
+      "title": "The Thirteen Problems ",
+      "AuthorName": " Christie Agatha",
+      "Description": "\nA weekly dinner party Ten amateur sleuths The Tuesday Night Club murders On a quiet Tuesday in St Mary Mead, a group of friends gather for dinner. A policeman, a clergyman, a solicitor, an author, an artist, and an unassuming lady with a shrewd gaze - Miss Jane Marple. Conversation naturally turns to crime. Each recounts a seemingly unsolvable mystery. Each thinks they know the answer.",
+      "Quantity": "23",
+      "price": 1250,
+      "category": "History",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/book/q/l/m/-original-imagghe7yx7qgzgu.jpeg?q=70",
+      "id": "17"
+    },
+    {
+      "title": "The Age of Light ",
+      "AuthorName": " Scharer Whitney",
+      "Description": "The Age of Light is the riveting, vivid and powerful story of the photographer Lee Miller and her lover, Man Ray. Model. Muse. Lover. Artist. Paris, 1929. Lee Miller has abandoned her life in New York and a modelling career at Vogue to pursue her dream of becoming a photographer. When she catches the eye of artist Man Ray she convinces him to hire her as his assistant. Man is an egotistical, charismatic force and they soon embark upon a passionate affair.",
+      "Quantity": "20",
+      "price": 200,
+      "category": "History",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/kzpw2vk0/book/m/f/k/the-age-of-light-original-imagbnsxfzqzfhvs.jpeg?q=70",
+      "id": "18"
+    },
+    {
+      "title": "My India",
+      "Description": "My India: Notes for the Future contains excerpts from Dr A.P. J Adbul Kalam's speeches in his post presidency years. Drawn from Dr Kalam's addresses to parliaments, universities, schools and other institutions in India and abroad, they include his ideas on science, nation building, poverty, compassion and self-confidence. Dr Kalam draws on the lives of stalwarts such as Marie Curie, Dr Vikram Sarabhai to encourage and inspire his young readers.",
+      "AuthorName": " Dr. Abdul A.P.J. Abdul Kalam",
+      "Quantity": "30",
+      "price": "2450",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/kk2wl8w0/book/x/y/y/my-india-original-imafzhma4cxggged.jpeg?q=70",
+      "category": "Drama",
+      "id": "19"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince ",
+      "Description": "Harry's sixth year at Hogwarts is packed with more great Hufflepuff moments and characters - not least Tonks's rescue of Harry from the Hogwarts Express, and the intense Hufflepuff-Gryffindor Quidditch match.Each Hufflepuff House Edition features vibrant sprayed edges and intricate silver foiling. The stunning cover design has a cameo-style portrait of the Half-Blood Prince as the central icon, framed by beautiful house-themed iconography.",
+      "AuthorName": " Rowling J. K.",
+      "Quantity": "20",
+      "price": 2399,
+      "Image": "https://rukminim1.flixcart.com/image/832/832/l0cr4i80/poster/h/i/i/medium-harry-potter-the-half-blood-prince-dumbledore-print-original-imagc5ygdkjdubzk.jpeg?q=70",
+      "category": "Crime",
+      "id": "20"
+    },
+    {
+      "title": "Cinderella Is Dead",
+      "Description": "Kalynn Bayron does more than re-write a fairytale ... She breaks it apart and rebuilds it into a wholly original and captivating story where girls finally decide for themselves who lives happily ever after' - New York Times bestselling author Brigid Kemmerer'A richly diverse and lovely read ... relevant, modern and inclusive' - NetGalley Reviewer'An intense experience, but a captivating one' - Paper Lanterns Magazine t's 200 years since Cinderella found her prince, but the fairytale is over.",
+      "AuthorName": " Bayron Kalynn",
+      "Quantity": "15",
+      "category": "Drama",
+      "price": 300,
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/book/1/h/t/cinderella-is-dead-original-imagevgesywvjhv9.jpeg?q=70",
+      "id": "21"
+    },
+    {
+      "title": "WINGS OF FIRE",
+      "AuthorName": " Arun Tiwari ,  A. P. J. Abdul Kalam",
+      "Description": "The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success. Dr. Kalam by narrating his life journey evokes the reader to identify with one’s inner fire and potential, for he was of the firm belief that each one of us was born with the strength and potential to make a tangible change in the world. How he inspired himself to achieve dreams and how he went about accomplishing so much is what the book captures nicely. The book recollects many anecdotes and stories from childhood, his time at school and college. The time spent at the Langley Research Center, NASA and Wallops Flight Facility gets a lot of attention. Personal tragedies have not been left out. The time when he lost his father and how he felt when conferred with many awards like the Padma Bhushan have been written in much detail. ",
+      "Quantity": "50",
+      "price": 2500,
+      "category": "Drama",
+      "Image": "https://m.media-amazon.com/images/I/51wbVQTpTgL._SX339_BO1,204,203,200_.jpg",
+      "id": "22"
+    },
+    {
+      "title": "The Power of your Subconscious Mind",
+      "AuthorName": " Joseph Murphy",
+      "Description": "In this book, 'The power of your subconscious mind', the author fuses his spiritual wisdom and scientific research to bring to light how the sub-conscious mind can be a major influence on our daily lives. Once you understand your subconscious mind, you can also control or get rid of the various phobias that you may have in turn opening a brand new world of positive energy.",
+      "Quantity": "20",
+      "price": 1233,
+      "category": "Thriller",
+      "Image": "https://m.media-amazon.com/images/I/81gTwYAhU7L.jpg",
+      "id": "23"
+    },
+    {
+      "title": "Digital Fortress",
+      "Description": "When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage...not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.",
+      "AuthorName": "Dan Brownn",
+      "Quantity": "25",
+      "price": 450,
+      "Image": "https://m.media-amazon.com/images/I/71MP+kZmyEL.jpg",
+      "category": "Crime",
+      "id": "24"
+    },
+    {
+      "title": "Portrait of an Unknown Woman",
+      "AuthorName": " Daniel Silva ",
+      "Description": "Legendary spy and art restorer Gabriel Allon has at long last severed ties with Israeli intelligence and settled quietly in Venice, the only place he has ever truly known peace. His beautiful wife, Chiara, has taken over day-to-day management of the Tiepolo Restoration Company, and their two young children are clandestinely enrolled in a neighborhood scuola elementare. For his part, Gabriel spends his days wandering the streets and canals of the watery city, parting company with the demons of his tragic, violent past.\n\nBut when the eccentric London art dealer Julian Isherwood asks Gabriel to investigate the circumstances surrounding the rediscovery and lucrative sale of a centuries-old painting, he is drawn into a deadly game of cat and mouse where nothing is as it seems.",
+      "Quantity": "18",
+      "price": 650,
+      "category": "Drama",
+      "Image": "https://m.media-amazon.com/images/I/51h-YUTXTsL._SX325_BO1,204,203,200_.jpg",
+      "id": "25"
+    },
+    {
+      "title": "The Dovic Story : A journey of love and self-discovery",
+      "AuthorName": " Rakhi Kapoor ",
+      "Description": "n the beginning, mankind was like any other life-form, naïve and frail. The creators of the Universe, Ra and Ri had gifted mankind unique and special abilities. If used appropriately, over time, he could evolve to become the most powerful and advanced life-form on Earth. The Creators would then hail themselves over the masterpiece they had created. Ra and Ri also believed that there was always the possibility that man could become arrogant and selfish.  As time passed, their fears came true; man became powerful. He was so full of himself that he began to fight for superiority even amongst his own kind. He began to explore exploit and inhabit every nook and corner of the planet. The creators of the planet earth, Ra and Ri were aware of this possibility. They foretold a prophecy that man was destined to stumble upon a small rock while he leapt higher to reach the stars and the moon. Man inched into unknown parts of the earth which were forbidden. He shook up a tiny, invisible world of life-forms much inferior to him",
+      "Quantity": "35",
+      "price": 999,
+      "category": "Drama",
+      "Image": "https://m.media-amazon.com/images/I/71c+Ap45tfL.jpg",
+      "id": "26"
+    },
+    {
+      "title": "Aurora Rising",
+      "Description": "Aurora Rising is to sci-fi what Stranger Things is to the cinema of the eighties - a fusion of everything you love about the genre that adds up into something completely fresh.' Samantha Shannon From the New York Times and internationally bestselling authors of The Illuminae Files comes a new science fiction epic... The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch: A cocky diplomat with a black belt in sarcasm A sociopath scientist with a fondness for shooting her bunkmates A smart-ass tech-whiz with the galaxy's biggest chip on his shoulder An alien warrior with anger management issues",
+      "AuthorName": " Kaufman Amie",
+      "Quantity": "20",
+      "price": 220,
+      "Image": "https://rukminim1.flixcart.com/image/832/832/l5ld8y80/book/v/p/b/aurora-rising-the-aurora-cycle-original-imagg7xdf4eku4sp.jpeg?q=70",
+      "category": "Fantasy",
+      "id": "27"
+    },
+    {
+      "title": "The Return of the King ",
+      "Description": "The third part of J.R.R. Tolkien's epic adventure THE LORD OF THE RINGS The armies of the Dark Lord are massing as his evil shadow spreads even wider. Men, Dwarves, Elves and Ents unite forces to battle against the Dark. Meanwhile, Frodo and Sam struggle further into Mordor in their heroic quest to destroy the One Ring. The devastating conclusion of J.R.R. Tolkien's classic tale of adventure, begun in The Fellowship of the Ring and The Two Towers.",
+      "AuthorName": "Tolkien J. R. R.",
+      "Quantity": "25",
+      "price": "420",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/kzygpzk0/book/a/i/j/the-return-of-the-king-original-imagbuzrgsw8rw5h.jpeg?q=70",
+      "category": "Drama",
+      "id": "28"
+    },
+    {
+      "title": "The Lord of the Rings ",
+      "Description": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.\n\nSauron, the Dark Lord, has gathered to him all the Rings of Power—the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring—the ring that rules them all—which has fallen into the hands of the hobbit, Bilbo Baggins.\n\nIn a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.",
+      "AuthorName": "J.R.R. Tolkien ",
+      "Quantity": "24",
+      "price": "2198",
+      "Image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51SZ+xIbZnL.jpg",
+      "category": "Fantasy",
+      "id": "29"
+    },
+    {
+      "title": "Homecoming: A Portal Cultivation",
+      "AuthorName": " Chris Vines",
+      "Description": "Aiden has emerged victorious, earning the Legacy of the M'Zee and advancing to Seed Core faster than anyone else in history. Now, he must consolidate his gains, learn about the Legacy and what holding it entails, and make his way back home. However, the journey across the ocean is always treacherous, and their desire to explore ancient ruins discovered on their original trip will lead them to find another threat to the world.",
+      "Quantity": "10",
+      "price": 450,
+      "Image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41IOL3vX9GL.jpg",
+      "category": "Fantasy",
+      "id": "31"
+    },
+    {
+      "title": " The Hands of Time",
+      "AuthorName": " Michelle Madow ",
+      "Description": "Months ago, Nicole Cassidy's life was turned upside-down when she discovered that she was a witch descended from the Greek gods. She and the four other witches gifted with elemental powers fought all over the world—and in another dimension—to battle the supporters of the Titans and fight for the people they love.\n\nNow the Elementals must stop Typhon—the most dangerous monster in the world—from rising, and seal the portal to the dangerous prison world of Kerberos. But they won’t be able to do that without facing their hardest decision yet… a sacrifice so great that it may be one they’re not willing to make.",
+      "Quantity": "28",
+      "price": 1799,
+      "Image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51TgbWbUa4L.jpg",
+      "category": "Fantasy",
+      "id": "32"
+    },
+    {
+      "title": "Once Upon a Spy",
+      "AuthorName": "Vishwamitra Saini",
+      "Description": "YOU DON’T CHOOSE THE WORLD OF ESPIONAGE THE WORLD OF ESPIONAGE CHOOSES YOU. Vishwamitra Saini — a spy, a consummate man and an avid lover — sees the world in black and white. He has his own set of rules that he abides by. But when he falls in love during a mission, a deed which ultimately blows his cover, his superiors decide to put him on the shelf. It is then that he decides he has had enough. He crosses over to Pakistan and defects to the other side, putting all of India’s secrets in jeopardy. At least that is the story that the world knows about him. But has he really defected? Or has he gone rogue? What is the truth? As the hunt for Saini begins, a secret is revealed from the veil about a mysterious informant from the other side, codenamed The Rook, whose agenda is yet obscure.",
+      "Quantity": "15",
+      "price": "200",
+      "Image": "https://m.media-amazon.com/images/I/51nhAYAOnbL._SX319_BO1,204,203,200_.jpg",
+      "category": "Thriller",
+      "id": "33"
+    },
+    {
+      "title": "Dark Matter",
+      "AuthorName": "Blake  Crouch",
+      "Description": "'In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.Is it this world or the other that's the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could've imagined ? one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.",
+      "Quantity": "15",
+      "price": "300",
+      "Image": "https://m.media-amazon.com/images/I/51STjvOwjYL._SX328_BO1,204,203,200_.jpg",
+      "category": "History",
+      "id": "34"
+    },
+    {
+      "title": "The Wife Upstairs",
+      "Description": "A wife who just won’t stay buried…But what Jane doesn’t know is that Eddie is keeping a secret – a big secret. And when the truth comes out, the consequences are far more deadly than anyone could ever have imagined",
+      "AuthorName": "Rachel Hawkins",
+      "Quantity": "15",
+      "price": "2500",
+      "Image": "https://m.media-amazon.com/images/I/51m3qqBBARL._SX324_BO1,204,203,200_.jpg",
+      "category": "Drama",
+      "id": "35"
+    },
+    {
+      "title": "A Nation of Idiots",
+      "AuthorName": "Daksh Tyagi ",
+      "Description": "Intolerant to the debate on intolerance, but tolerant of religious intolerance. We cling onto age-old traditions, but a holiday can alter our accent. To us, caste and community is a badge of trust, religion is a line of control and a godman is an anti-depressant.\nWe won’t stop at a zebra crossing, but we will damn well stop on it. We build things to prove our worth and break things to prove a point. We love the concept of independence, but we need our parents to help raise our kids. And we scripted the Kamasutra. Easy to forget, since we also ruined sex.\nSo how do we tell the real from the farcical? The farcical from the nutty? And the nutty from the downright ridiculous?\nEasy. We just go along.\n",
+      "Quantity": "24",
+      "price": "420",
+      "Image": "https://m.media-amazon.com/images/I/51spSem0HWL._SX314_BO1,204,203,200_.jpg",
+      "category": "History",
+      "id": "36"
+    },
+    {
+      "title": "World History ",
+      "AuthorName": "Krishna Reddy",
+      "Description": "The book will aid in analysing the answers to the questions like ‘What happened’, ‘When did it happen’, ‘How did it happen’ and ‘What was the outcome’. Salient Features: 1. Contains comprehensive overview of world history in its modern context right up to the present 2. An in-depth analysis of major contours of the modern world like American, French and Russian Revolutions, the World Wars and the Cold War 3. Historical developments relevant to the international relations such as Fascism, Nazism, Communism and Decolonisation are discussed in detail 4. Contemporary global issues such as the contributions of the UN, relevance of NAM, unending conflict in the Middle East, crisis in EU and the challenges of Global Order are highlighted 5.",
+      "Quantity": "25",
+      "price": "400",
+      "Image": "https://m.media-amazon.com/images/I/510V95dxmyL._SX380_BO1,204,203,200_.jpg",
+      "category": "History",
+      "id": "37"
+    },
+    {
+      "title": "BORN A CRIME",
+      "AuthorName": "Trevor Noah",
+      "Description": "Trevor Noah’s unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parents’ indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away. Finally liberated by the end of South Africa’s tyrannical white rule, Trevor and his mother set forth on a grand adventure, living openly and freely and embracing the opportunities won by a centuries-long struggle.",
+      "Quantity": "20",
+      "price": "620",
+      "Image": "https://m.media-amazon.com/images/I/51ga38un89L._SX324_BO1,204,203,200_.jpg",
+      "category": "Crime",
+      "id": "38"
+    },
+    {
+      "title": "Queens of Crime",
+      "AuthorName": " Kulpreet Yadav",
+      "Description": "Dysfunctional families, sexual abuse, sheer greed and sometimes just a skewed moral compass. These are some of the triggers that drove the women captured in these pages to become lawbreakers. Queens of Crime demonstrates a haunting criminal power that most people do not associate women with. The acts of depravity described in this book will jolt you to the core, ensuring you have sleepless nights for months.Based on painstaking research, these are raw, violent and seemingly unbelievable but true rendition of India's women criminals.",
+      "Quantity": "10",
+      "price": "399",
+      "Image": "https://m.media-amazon.com/images/I/41gG6CqrtrL._SX324_BO1,204,203,200_.jpg",
+      "category": "Crime",
+      "id": "39"
+    },
+    {
+      "title": "The Long Cold Winter",
+      "AuthorName": " Colin Conway",
+      "Description": "The thirty-year-old unsolved murder leads to a startling revelation—Nash and his friends saw the victim right before her death. Before he can work the case, though, dispatch sends him to a wintery crime scene.\n\nA snow-covered body lies in an open field, and Nash has no witnesses or immediate suspects.\n\nAmid freezing temperatures and under an oppressive gray sky, can Dallas Nash locate two killers—one of whom has remained hidden for three decades?\n\nThe Long Cold Winter is the second book in the 509 Crime Stories, a series of novels set in Eastern Washington with revolving lead characters. If you like raw emotion and police procedurals, you’ll love this story of a heartbroken detective working his way back from personal tragedy.",
+      "Quantity": "20",
+      "price": "460",
+      "Image": "https://m.media-amazon.com/images/I/41mLlmR0w4L.jpg",
+      "category": "Crime",
+      "id": "40"
+    },
+    {
+      "title": "The Highway Murders",
+      "AuthorName": "Sourabh Mukherjee",
+      "Description": "a thirty-nine-year-old policewoman went missing in Tamil Nadu. A month later, her heavily decomposed body was discovered in a drain by a graveyard. She had been brutally violated and killed.\nAs the investigation started, the police detected a pattern in more than a dozen unsolved rape-and-murder cases with mutilated bodies of women turning up in graveyards, drains and empty fields along the highways.\nIt didn’t take the police too long to find out that the perpetrator was a trucker named M Jaishankar.\nWhat followed was a cat-and-mouse game across states, many more gruesome killings, one of the most sensational jailbreaks in the history of the country, and a controversial suicide in a high security cell.\nThe Highway Murders is the breathtaking true story of 'Psycho Shankar', one of India's most notorious serial killers, and one policeman's relentless decade-long battle against the 'terror of the highways'.",
+      "Quantity": "12",
+      "price": "150",
+      "Image": "https://d2i0w0hu6hvxgc.cloudfront.net/B0BQW71339/7d4d8f2c/cover.jpeg",
+      "category": "Crime",
+      "id": "41"
+    },
+    {
+      "title": "Twin Crowns",
+      "AuthorName": "Katherine Webber",
+      "Description": "A high-stakes fantasy rom-com about twin princesses separated at birth—one raised as the crown princess, and the other taken as an infant and raised to kidnap her sister, steal the crown, and avenge the parents' murders—the first novel in a new YA duology from bestselling UK authors Catherine Doyle and Katherine Webber. Perfect for fans of The Selection, My Lady Jane, and Caraval.\nWren Greenrock has always known that one day she’d steal her sister’s place on the throne. Trained from birth to return to the palace and avenge her parents’ murder, she’ll do anything to become queen and protect the community of witches who raised her. Or she would, if only a certain guard wasn’t quite so distractingly attractive, and if her reckless magic would stop causing trouble. . . .",
+      "Quantity": "20",
+      "price": "498",
+      "Image": "https://m.media-amazon.com/images/I/51P3NRcaQ1L._SX324_BO1,204,203,200_.jpg",
+      "category": "Fantasy",
+      "id": "42"
+    },
+    {
+      "title": "You've Reached Sam",
+      "AuthorName": " Dustin Thao",
+      "Description": "Sam and Julie are meant for each other, destined to meet, destined to be together until the same destiny pulls the tragedy card. Cruel.\nSam is gone, no more to reach out hold hands, to to fight and laugh and go dates with. It’s hollow and dark for Julie. She’s lost, dreams don’t spare her, she blames herself for his death, blames him, she’s angry, frustrated & hidden. She’s losing herself, bit by bit. Feeling hurt and doing the irrational she falls down and then, in hope of getting to talk, she calls.\n\nAnd Sam picks up, he’s picks up and Calls it their last chance at good bye? A compensation to the unfair? What is this connection and how long will it last? Is it even real?",
+      "Quantity": "10",
+      "price": "499",
+      "Image": "https://m.media-amazon.com/images/I/51GLh+vT6LL._SX328_BO1,204,203,200_.jpg",
+      "category": "Fantasy",
+      "id": "43"
+    },
+    {
+      "title": "To Kill a Kingdom",
+      "AuthorName": "Alexandra Christo",
+      "Description": "Dark and romantic YA fantasy about the siren with a taste for royal blood and the prince who has sworn to destroy her. Princess Lira is siren royalty and the most lethal of them all. With the hearts of seventeen princes in her collection, she is revered across the sea. Until a twist of fate forces her to kill one of her own. To punish her daughter, the Sea Queen transforms Lira into the one thing they loathe most - a human. Robbed of her song, Lira has until the winter solstice to deliver Prince Elian's heart to the Sea Queen or remain a human forever. The ocean is the only place Prince Elian calls home, even through he is heir to the most powerful kingdom in the world. Hunting sirens is more than an unsavoury hobby - it's his calling. When he rescues a drowning woman in the ocean, she's more than what she appears. ",
+      "Quantity": "30",
+      "price": "400",
+      "Image": "https://m.media-amazon.com/images/I/51xzQJ+uPcL._SX323_BO1,204,203,200_.jpg",
+      "category": "Fantasy",
+      "id": "44"
+    },
+    {
+      "title": "The Echo of Old Books",
+      "AuthorName": "Barbara Davis",
+      "Description": "Ashlyn is caught up in a decades-old literary mystery, beckoned by two hearts in ruins, whoever they were, wherever they are. Determined to learn the truth behind the doomed lovers’ tale, she reads on, following a trail of broken promises and seemingly unforgivable betrayals. ",
+      "Quantity": "15",
+      "price": "2200",
+      "Image": "https://m.media-amazon.com/images/I/51aUZtbVGdL.jpg",
+      "category": "Fantasy",
+      "id": "45"
+    },
+    {
+      "id": "fa67"
+    }
+  ],
+  "Rent": [
+    {
+      "title": "Inferno",
+      "Description": "Harvard symbolism professor Robert Langdon wakes up in a hospital in Florence, Italy with a head wound and no memory of the last few days. Dr. Sienna Brooks, one of the doctors tending to him, reveals that he is suffering from amnesia and hearing a woman's voice repeatedly saying \"seek and find\". When Vayentha, an assassin, shows up in the hospital and kills one of the doctors, while attempting to kill Langdon, Brooks helps Langdon escape, and they flee to her apartment. Brooks plays a tape recording on which Langdon repeats what sounds like \"Very sorry\".\n\nLangdon finds a cylinder with a biohazard sign in his jacket and decides to call the U.S. consulate. He learns that they are searching for him, but, prompted by Brooks, claims to be across the street from her apartment, to avoid getting her more involved. Soon, Langdon sees Vayentha pull up to the location he gave the consulate. He deduces that the U.S. government wants to kill him. Langdon opens the container and finds a small medieval bone cylinder fitted with a hi-tech projector (Faraday Pointer) that displays a modified version of Botticelli's Map of Hell, which is based on Dante's Inferno. A trail of clues leads them toward the Old City.",
+      "AuthorName": "Robert Langdon",
+      "price": 200,
+      "email": "alexa007@gmail.com",
+      "RentFrom": "2023-06-15",
+      "RentUpto": "2023-06-16",
+      "BookId": "2",
+      "id": "11"
+    },
+    {
+      "title": "The Art of War",
+      "Description": "Sun Tzu was a Chinese general, military strategist and a philosopher whose books have universal resonance even in the contemporary time. The Art of War has inspired Mao Zedong’s writings about Guerrilla warfare. Ho Chi Minh translated The Art of War for his generals to study. Sun Tzu’s Art of War is a widely acclaimed book on military strategy that has influenced and shaped the idea of Western and Eastern nations military philosophy. It presents complete instructions on how to win battles and manage conflicts. The theories proposed in Art of War are extremely beneficial on the battle ground and has been tried and tested by many successful military generals around the world. It is difficult to ascertain exactly when was this book written and many historians have ascribed it to different times. The Art of War has established its significance not just as a valuable book for military strategies but it also gives lesson in diplomacy and public administration and planning.",
+      "AuthorName": " Sun Tzu",
+      "price": 300,
+      "email": "alexa007@gmail.com",
+      "RentFrom": "2023-06-15",
+      "RentUpto": "2023-06-22",
+      "BookId": "11",
+      "id": "12"
+    },
+    {
+      "title": "The Art of War",
+      "Description": "Sun Tzu was a Chinese general, military strategist and a philosopher whose books have universal resonance even in the contemporary time. The Art of War has inspired Mao Zedong’s writings about Guerrilla warfare. Ho Chi Minh translated The Art of War for his generals to study. Sun Tzu’s Art of War is a widely acclaimed book on military strategy that has influenced and shaped the idea of Western and Eastern nations military philosophy. It presents complete instructions on how to win battles and manage conflicts. The theories proposed in Art of War are extremely beneficial on the battle ground and has been tried and tested by many successful military generals around the world. It is difficult to ascertain exactly when was this book written and many historians have ascribed it to different times. The Art of War has established its significance not just as a valuable book for military strategies but it also gives lesson in diplomacy and public administration and planning.",
+      "AuthorName": " Sun Tzu",
+      "price": 300,
+      "email": "muhaimin123@gmail.com",
+      "RentFrom": "2023-06-15",
+      "RentUpto": "2023-06-15",
+      "BookId": "11",
+      "id": "13"
+    },
+    {
+      "title": "Wuthering Heights ",
+      "Description": "Harper Collins is a fiduciary name amongst bibliophiles. This book is a quality print from H.C. London. The book is printed and bound is the U.K. The pages are quality with the signature light yellow tint of classic literature. The print quality is commendable. The text size is tad smaller than Penguin Classics, nonetheless very legible.",
+      "AuthorName": " Bronte Emily",
+      "price": 1140,
+      "email": "muhaimin123@gmail.com",
+      "RentFrom": "2023-06-18",
+      "RentUpto": "2023-06-20",
+      "BookId": "4",
+      "id": "15"
+    }
+  ],
+  "FeedBack": [
+    {
+      "User": "James Gunn",
+      "feed": "When I look back, I am so impressed again with the life-giving power of literature. If I were a young person today, trying to gain a sense of myself in the world, I would do that again by reading, just as I did when I was young.",
+      "id": "1"
+    },
+    {
+      "User": "armas07@gmail.com",
+      "feed": "Academic libraries have for centuries played critically important roles in supporting the education system. A statistically significant correlation between library use and academic productivity has been found. Recently, libraries have not been used at the optimum level. To design library services, user studies are being conducted by many researchers",
+      "id": "2"
+    },
+    {
+      "id": "5fdc"
+    }
+  ],
+  "Category": [
+    {
+      "id": "1",
+      "category": "Thriller",
+      "Img": "https://m.media-amazon.com/images/I/81EwJoYM6jL.jpg"
+    },
+    {
+      "id": "2",
+      "category": "History",
+      "Img": "https://m.media-amazon.com/images/I/41-0lBgMGvL.jpg"
+    },
+    {
+      "id": "3",
+      "category": "Crime",
+      "Img": "https://m.media-amazon.com/images/I/71bhR8QDlPL.jpg"
+    },
+    {
+      "id": "4",
+      "category": "Drama",
+      "Img": "https://m.media-amazon.com/images/I/71l+w6TvBML.jpg"
+    },
+    {
+      "category": "Fantasy",
+      "Img": "https://img.freepik.com/premium-photo/open-magic-book-with-fairy-tales_763713-618.jpg",
+      "id": "5"
+    }
+  ],
+  "Cards": [
+    {
+      "title": "Dan Brown's Origin",
+      "author": "Robert Langdon",
+      "content": "The TimesRobert Langdon - Harvard professor, arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough.",
+      "published": "Published in 2018",
+      "img": "https://books.google.co.in/books/publisher/content?id=95wnDQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U10j2jWg-YmU4eb4TKRH-4U8PFl8g&w=1280",
+      "id": "1"
+    },
+    {
+      "title": "Redemption",
+      "author": "Navya Gridhar",
+      "content": " It is a riveting tale of the sisters on a roller-coaster ride of love, betrayal, selfishness, crime, and finally, redemption.",
+      "published": "Published in 2019",
+      "img": "https://m.media-amazon.com/images/I/41x6SK96yAL._BG0,0,0,0_FMpng_AC_SY320_SX320_.jpg",
+      "id": "2"
+    },
+    {
+      "title": "Lies and Deception",
+      "author": "Chris Taylor",
+      "content": " Colby Shearer has a successful, demanding career as a lawyer and crown prosecutor. By chance, he meets Monica at his younger sister's wedding.",
+      "published": "Published in 2017",
+      "img": "https://m.media-amazon.com/images/I/51pnprnaZHL._BG0,0,0,0_FMpng_AC_SY320_SX320_.jpg",
+      "id": "3"
+    },
+    {
+      "title": "The Anarchy",
+      "author": "William Dalrymple",
+      "content": " The TimesIn August 1765 the East India Company defeated the young Mughal emperor and forced him to establish in his richest provinces.",
+      "published": "Published in 2019",
+      "img": "https://m.media-amazon.com/images/I/51p6gYEJmTL._SX315_BO1,204,203,200_.jpg",
+      "id": "4"
+    },
+    {
+      "title": "Wuthering Heights ",
+      "author": "Bronte Emily",
+      "content": "Harper Collins is a fiduciary name amongst bibliophiles. This book is a quality print from H.C. London. The text size is tad smaller than Penguin Classics, nonetheless very legible.",
+      "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/book/g/n/c/wuthering-heights-original-imagguh5urjmt5v9.jpeg?q=70",
+      "published": "Published in 2019",
+      "id": "5"
+    }
+  ],
+  "getData": [
+    {
+      "title": "About",
+      "About": "The library card is a passport to wonders and miracles, glimpses into other lives, religions, experiences, the hopes and dreams and strivings of ALL human beings, and it is this passport that opens our eyes and hearts to the world beyond our front doors, that is one of our best hopes against tyranny, xenophobia, hopelessness, despair, anarchy, and ignorance..",
+      "sub": "Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life.",
+      "img": "https://www.creativ-eras.com/assets/images/library-slider-img-3.jpg",
+      "id": "766c"
+    }
+  ]
+}
